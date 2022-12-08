@@ -2,7 +2,7 @@
 
 This is the first application I developed in Python fully by my self. I used the PySimpleGUI library to design the user interface.
 
-NOTE: there are a few bugs i am currently trying to fix.
+NOTE: There are a few bugs i am currently trying to fix.
 
 With a right click on the display field you can change the theme.
 
